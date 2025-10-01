@@ -1,0 +1,7 @@
+langgraph>=1.0.0a
+langchain[google-genai]
+python-dotenv
+langsmith
+langgraph-cli[inmem]
+langchain-tavily
+langgraph-checkpoint-sqlite

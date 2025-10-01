@@ -1,0 +1,10 @@
+{
+  "graphs": {
+    "app": "src.graph:graph"
+  },
+  "dependencies": ["requirements.txt"],
+  "build": {
+    "context": "."
+  },
+  "env": ".env"
+}
